@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm Currently Focus Working on Backend Development && CyberSecurity Research(Exploit Development)<br>  <br>🌱 I'm Currently  Learning Advanced Backend Development<br><br>💭 Ask Me About : RESTful API , Authentication & Authorization , SQL , NoSQL  Databases , Cybersecurity Red Teaming Topics( Network Penetration testing , Exploit Development and Fuzzing for Discovering  zero-day vulnerability )<br><br>
+🔭 I'm Currently Focus Working on Backend Development && CyberSecurity Research(Exploit Development)<br>  <br>🌱 I'm Currently  Learning Advanced Backend Development<br><br>💭 Ask Me About : RESTful API , Authentication & Authorization , SQL , NoSQL  Databases , Cybersecurity Red Teaming Topics( Network Penetration testing , Exploit Development in assembly 0x86 , assembly 0x86_64 , C language and Fuzzing for Discovering  zero-day vulnerability )<br><br>
 
 
 ## 🌐 Socials:
